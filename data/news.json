@@ -1,0 +1,758 @@
+[
+    {
+        "title": "How FERC\u2019s Large-Load Interconnection Actions Help Address Grid Stress, Improve Affordability",
+        "link": "https://blogs.nvidia.com/blog/ferc-large-load-interconnection/",
+        "published": "Thu, 18 Jun 2026 20:00:27 +0000",
+        "summary": "In a consequential grid infrastructure decision, the Federal Energy Regulatory Commission (FERC) today issued a major milestone on large-load interconnection impacting how those building AI factories, semiconductor fabrication support systems and advanced manufacturing facilities can connect to the grid.\u00a0 In the era of AI, which NVIDIA founder and CEO Jensen Huang has described as a [&#8230;]",
+        "source": "NVIDIA Blog"
+    },
+    {
+        "title": "At Cannes Lions, NVIDIA Partners Reshape Advertising and Marketing With AI",
+        "link": "https://blogs.nvidia.com/blog/nvidia-ai-marketing-advertising-cannes-lions/",
+        "published": "Thu, 18 Jun 2026 13:00:43 +0000",
+        "summary": "The digital era gave the advertising and marketing industry speed; the AI era is giving it autonomous operations.\u00a0 For companies building next-generation technologies for advertising and marketing, the question is no longer whether to adopt AI but whether their infrastructure can support it at the speed and scale the industry demands.\u00a0 At Cannes Lions, running [&#8230;]",
+        "source": "NVIDIA Blog"
+    },
+    {
+        "title": "Sync and Stream: GeForce NOW Connects to Members\u2019 Game Libraries Across Devices",
+        "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-game-stores/",
+        "published": "Thu, 18 Jun 2026 13:00:32 +0000",
+        "summary": "Play favorite titles from popular game libraries, keep progress synced and jump back into gaming sessions on virtually any device. That\u2019s the power of GeForce NOW cloud gaming. From providing access to members\u2019 favorite game libraries to offering some of the season\u2019s best membership pricing, GeForce NOW is making it easier than ever to get [&#8230;]",
+        "source": "NVIDIA Blog"
+    },
+    {
+        "title": "France Advances Europe\u2019s AI Future With NVIDIA Technologies",
+        "link": "https://blogs.nvidia.com/blog/france-advances-europes-ai-future/",
+        "published": "Thu, 18 Jun 2026 06:00:59 +0000",
+        "summary": "A year ago at NVIDIA GTC Paris at VivaTech, France laid out plans to advance local AI \u2014 from new AI factories and national compute capacity to open frontier models and industrial platforms. Now, that AI infrastructure is coming online. AI agents are running in production, startups are deploying applications and the French AI ecosystem [&#8230;]",
+        "source": "NVIDIA Blog"
+    },
+    {
+        "title": "Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses",
+        "link": "https://blogs.nvidia.com/blog/nvidia-xr-ai/",
+        "published": "Tue, 16 Jun 2026 22:30:41 +0000",
+        "summary": "NVIDIA XR AI is now available in public beta, giving developers a framework for building multimodal AI agents for AR glasses and XR devices. &#160;",
+        "source": "NVIDIA Blog"
+    },
+    {
+        "title": "Coherent Breaks Ground on Expanded Texas Facility, Scaling AI\u2019s Optical Backbone",
+        "link": "https://blogs.nvidia.com/blog/coherent-texas-ai-optical/",
+        "published": "Tue, 16 Jun 2026 22:10:56 +0000",
+        "summary": "AI runs at the speed of light. More and more, that light is made in Texas. Coherent broke ground today on an expanded manufacturing building in Sherman, Texas.\u00a0 The company makes the lasers, optical components and compound semiconductors that wire AI systems together \u2014 and runs what it calls the world\u2019s first 6-inch indium phosphide [&#8230;]",
+        "source": "NVIDIA Blog"
+    },
+    {
+        "title": "HPE AI Factory With NVIDIA Expands for the Era of Agents",
+        "link": "https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/",
+        "published": "Tue, 16 Jun 2026 16:30:27 +0000",
+        "summary": "Enterprises are moving agentic AI from proof of concept to production \u2014 and the next generation of AI factories are built for the era of agents. At HPE Discover Las Vegas, running through Thursday, June 18, NVIDIA and HPE are expanding the HPE AI Factory with NVIDIA, including NVIDIA Vera CPU and NVIDIA Agent Toolkit [&#8230;]",
+        "source": "NVIDIA Blog"
+    },
+    {
+        "title": "Fastest, Largest, Strongest: NVIDIA Blackwell Sweeps MLPerf Training 6.0",
+        "link": "https://blogs.nvidia.com/blog/blackwell-mlperf-training-6-0/",
+        "published": "Tue, 16 Jun 2026 15:00:36 +0000",
+        "summary": "Every breakthrough AI model starts the same way: with a training run. The infrastructure running those training jobs shapes everything: how fast teams can iterate, what scale of model they can build and whether those jobs complete reliably.\u00a0 As models grow in size, complexity and intelligence, the demands on training infrastructure are also rising.\u00a0 In [&#8230;]",
+        "source": "NVIDIA Blog"
+    },
+    {
+        "title": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
+        "link": "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/",
+        "published": "Fri, 12 Jun 2026 21:00:08 +0000",
+        "summary": "AgentPerf from Artificial Analysis, the industry\u2019s first agentic AI benchmark, gives developers, enterprises and infrastructure providers a clear way to compare systems for agentic AI. In the first round of published results, the NVIDIA Blackwell Ultra NVL72 platform delivers leading performance across the agentic AI workloads tested, running 20x more agents per megawatt than NVIDIA [&#8230;]",
+        "source": "NVIDIA Blog"
+    },
+    {
+        "title": "Save Big and Play Bigger: GeForce NOW Summer Sale Brings Major Membership Savings",
+        "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-summer-sale-2026/",
+        "published": "Thu, 11 Jun 2026 13:00:17 +0000",
+        "summary": "The GeForce NOW summer sale kicked off today with limited-time savings of up to $70 off a 12-month membership, making now the perfect time to upgrade to get the best of the cloud and see just how far Ultimate gaming can go. PC gamers are driven by one thing: the love of the game. But [&#8230;]",
+        "source": "NVIDIA Blog"
+    },
+    {
+        "title": "For Robotaxis, Safety Must Be Built In, Not Bolted On",
+        "link": "https://blogs.nvidia.com/blog/halos-os-robotaxi-safety/",
+        "published": "Wed, 10 Jun 2026 19:00:12 +0000",
+        "summary": "A car pulls up to the curb. The app says, \u201cYour ride is here.\u201d No one\u2019s in the driver\u2019s seat. For people who live in one of the dozens of cities now hosting robotaxi services, this is already a reality. The robotaxi industry has moved from prototype milestones to commercial operations, with an expanding ecosystem [&#8230;]",
+        "source": "NVIDIA Blog"
+    },
+    {
+        "title": "NVIDIA Accelerates Google DeepMind\u2019s DiffusionGemma for Local AI",
+        "link": "https://blogs.nvidia.com/blog/rtx-ai-garage-local-gemma-diffusion/",
+        "published": "Wed, 10 Jun 2026 16:15:20 +0000",
+        "summary": "Today, Google DeepMind\u00a0released\u00a0DiffusionGemma\u00a0\u2014\u00a0an experimental open\u00a0model built for exceptionally fast text\u00a0generation.\u00a0NVIDIA has\u00a0optimized\u00a0DiffusionGemma to run even faster across NVIDIA GeForce RTX\u00a0GPUs,\u00a0the\u00a0NVIDIA RTX PRO\u00a0platform\u00a0and NVIDIA DGX Spark\u00a0systems, from local PCs to the cloud.\u00a0 Rather than\u00a0generating\u00a0text one word at a time, DiffusionGemma generates\u00a0multiple words in\u00a0parallel\u00a0to output\u00a0whole blocks of text, opening a new,\u00a0low-latency frontier for the\u00a0kind of\u00a0single-user workloads that developers, [&#8230;]",
+        "source": "NVIDIA Blog"
+    },
+    {
+        "title": "NVIDIA Confidential Computing to Help Expand Apple\u2019s Private Cloud Compute",
+        "link": "https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/",
+        "published": "Tue, 09 Jun 2026 22:34:27 +0000",
+        "summary": "NVIDIA GPUs with Confidential Computing are now used for confidential inference in Apple\u2019s Private Cloud Compute (PCC), as it expands beyond Apple\u2019s data centers to Google Cloud.\u00a0 Unveiled during Apple\u2019s annual WWDC gathering for developers from around the globe, NVIDIA GPUs will support server-side inference for Apple Foundation Models, custom-built by Apple and Google, leveraging [&#8230;]",
+        "source": "NVIDIA Blog"
+    },
+    {
+        "title": "How the UK Is Turning Sovereign AI Ambition Into Action With NVIDIA Technologies",
+        "link": "https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/",
+        "published": "Mon, 08 Jun 2026 06:00:57 +0000",
+        "summary": "A year ago at London Tech Week, NVIDIA founder and CEO Jensen Huang and U.K. Prime Minister Keir Starmer made a declaration: the U.K. would be an AI maker, not an AI taker.\u00a0 At this year\u2019s event, NVIDIA and its partners are showcasing how that commitment is producing real momentum across the nation\u2019s infrastructure, startups [&#8230;]",
+        "source": "NVIDIA Blog"
+    },
+    {
+        "title": "NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure",
+        "link": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/",
+        "published": "Mon, 08 Jun 2026 03:00:50 +0000",
+        "summary": "NVIDIA and LG Group are building an AI factory to accelerate LG Group\u2019s next wave of AI-driven businesses, spanning robotics, autonomous driving, data center technologies and GPU cloud services. The AI factory will provide LG Group with accelerated computing infrastructure to train, simulate, validate and deploy AI-based applications across its key businesses.\u00a0 The collaboration brings [&#8230;]",
+        "source": "NVIDIA Blog"
+    },
+    {
+        "title": "NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure",
+        "link": "https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/",
+        "published": "Sun, 07 Jun 2026 23:00:36 +0000",
+        "summary": "NVIDIA and Doosan Group are expanding their collaboration to advance new opportunities across physical AI, robotics and AI factory infrastructure, spanning Doosan Robotics, Doosan Bobcat, Doosan Enerbility and Doosan Corporation Electro-Materials BG. The collaboration will bring together NVIDIA\u2019s full-stack accelerated computing platforms with Doosan Group\u2019s capabilities in industrial automation, power generation and advanced electronics materials [&#8230;]",
+        "source": "NVIDIA Blog"
+    },
+    {
+        "title": "NVIDIA, KRAFTON, NC and Reigning \u2018League of Legends\u2019 Champions T1 Celebrate RTX Spark at Korea\u2019s PC Bangs",
+        "link": "https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/",
+        "published": "Sun, 07 Jun 2026 07:00:15 +0000",
+        "summary": "At GTC Taipei at COMPUTEX last week, NVIDIA unveiled RTX Spark, the superchip that reinvents Windows PCs for the era of personal AI agents. On the heels of this announcement, NVIDIA founder and CEO Jensen Huang headed to South Korea, where he introduced RTX Spark to the nation\u2019s passionate gaming community. Leading game developers \u2014 [&#8230;]",
+        "source": "NVIDIA Blog"
+    },
+    {
+        "title": "Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI",
+        "link": "https://blogs.nvidia.com/blog/korea-ecosystem-2026/",
+        "published": "Fri, 05 Jun 2026 05:38:37 +0000",
+        "summary": "Home to cutting-edge sovereign AI infrastructure and robotics innovators, as well as one of the world\u2019s most passionate gaming communities, South Korea is one of the world\u2019s centers of AI. NVIDIA founder and CEO Jensen Huang is in Seoul this week to meet the partners and builders behind that work. Monday, June 8, 10:00 a.m. [&#8230;]",
+        "source": "NVIDIA Blog"
+    },
+    {
+        "title": "Signal\u2019s Meredith Whittaker wants you to remember that AI chatbots \u2018are not your friends\u2019",
+        "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+        "published": "Sat, 20 Jun 2026 20:32:29 +0000",
+        "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.\u201d",
+        "source": "AI News & Artificial Intelligence | TechCrunch"
+    },
+    {
+        "title": "In the Weights is your new AI-centric vanity search",
+        "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+        "published": "Sat, 20 Jun 2026 19:41:11 +0000",
+        "summary": "So ... what's your In the Weights score?",
+        "source": "AI News & Artificial Intelligence | TechCrunch"
+    },
+    {
+        "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+        "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+        "published": "Sat, 20 Jun 2026 16:39:57 +0000",
+        "summary": "Jumper isn't the only big name leaving Google DeepMind.",
+        "source": "AI News & Artificial Intelligence | TechCrunch"
+    },
+    {
+        "title": "From PGP to Mythos: a brief history of export controls that didn\u2019t stop anyone",
+        "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+        "published": "Fri, 19 Jun 2026 22:40:14 +0000",
+        "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic\u2019s cybersecurity model Mythos.",
+        "source": "AI News & Artificial Intelligence | TechCrunch"
+    },
+    {
+        "title": "Is the US government\u2019s Anthropic ban accidentally helping the brand?",
+        "link": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+        "published": "Fri, 19 Jun 2026 16:08:17 +0000",
+        "summary": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s guardrails.&#160; Cybersecurity researchers have&#160;since signed an open letter&#160;calling&#160;the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models.&#160;So&#160;is [&#8230;]",
+        "source": "AI News & Artificial Intelligence | TechCrunch"
+    },
+    {
+        "title": "The US banned Anthropic\u2019s Fable 5 release, but the numbers don\u2019t seem to care",
+        "link": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+        "published": "Fri, 19 Jun 2026 16:01:03 +0000",
+        "summary": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s guardrails.&#160; Cybersecurity researchers have&#160;since signed an open letter&#160;calling&#160;the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models.&#160;So&#160;is [&#8230;]",
+        "source": "AI News & Artificial Intelligence | TechCrunch"
+    },
+    {
+        "title": "Billionaire Ambani wants AI in every call, app, and home",
+        "link": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+        "published": "Fri, 19 Jun 2026 15:23:28 +0000",
+        "summary": "Reliance is weaving AI into telecom services used by more than 500 million people.",
+        "source": "AI News & Artificial Intelligence | TechCrunch"
+    },
+    {
+        "title": "The CEO of Allbirds\u2019 new AI biz has a plan, but no team",
+        "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+        "published": "Fri, 19 Jun 2026 13:00:00 +0000",
+        "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
+        "source": "AI News & Artificial Intelligence | TechCrunch"
+    },
+    {
+        "title": "The US says ASML\u2019s top chip tool may be in China, but how?",
+        "link": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+        "published": "Fri, 19 Jun 2026 07:59:12 +0000",
+        "summary": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
+        "source": "AI News & Artificial Intelligence | TechCrunch"
+    },
+    {
+        "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
+        "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+        "published": "Fri, 19 Jun 2026 00:51:11 +0000",
+        "summary": "Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
+        "source": "AI News & Artificial Intelligence | TechCrunch"
+    },
+    {
+        "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+        "link": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+        "published": "Thu, 18 Jun 2026 21:20:13 +0000",
+        "summary": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the \u201cinference gold rush\" marches on.",
+        "source": "AI News & Artificial Intelligence | TechCrunch"
+    },
+    {
+        "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
+        "link": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+        "published": "Thu, 18 Jun 2026 20:30:00 +0000",
+        "summary": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.",
+        "source": "AI News & Artificial Intelligence | TechCrunch"
+    },
+    {
+        "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+        "link": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+        "published": "Thu, 18 Jun 2026 19:59:22 +0000",
+        "summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
+        "source": "AI News & Artificial Intelligence | TechCrunch"
+    },
+    {
+        "title": "Almost half of US singles feel negatively about AI in dating, Match says",
+        "link": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
+        "published": "Thu, 18 Jun 2026 18:51:46 +0000",
+        "summary": "About 47% of singles look negatively at the use of AI in dating -- but many dating app users are open to AI helping with profile punch-ups and conversation starters.",
+        "source": "AI News & Artificial Intelligence | TechCrunch"
+    },
+    {
+        "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+        "link": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+        "published": "Thu, 18 Jun 2026 18:22:13 +0000",
+        "summary": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.",
+        "source": "AI News & Artificial Intelligence | TechCrunch"
+    },
+    {
+        "title": "AI data centers just got a government-mandated fast lane to the grid",
+        "link": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
+        "published": "Thu, 18 Jun 2026 17:49:23 +0000",
+        "summary": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages.",
+        "source": "AI News & Artificial Intelligence | TechCrunch"
+    },
+    {
+        "title": "The smartphone era created an attention crisis \u2014 slow tech is fixing it",
+        "link": "https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/",
+        "published": "Thu, 18 Jun 2026 17:16:30 +0000",
+        "summary": "\u201cPeople just really want to take back control of their time, their lives, their attention... They\u2019re down for whatever helps them do that.\u201d",
+        "source": "AI News & Artificial Intelligence | TechCrunch"
+    },
+    {
+        "title": "How to turn off AI in your Google Docs",
+        "link": "https://techcrunch.com/2026/06/18/how-to-turn-off-ai-in-your-google-docs/",
+        "published": "Thu, 18 Jun 2026 17:00:00 +0000",
+        "summary": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
+        "source": "AI News & Artificial Intelligence | TechCrunch"
+    },
+    {
+        "title": "\u2018Queer Eye\u2019 life coach Karamo Brown launches K\u0113, a wellness app featuring his AI digital clone",
+        "link": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
+        "published": "Thu, 18 Jun 2026 16:55:04 +0000",
+        "summary": "After spending a year and a half focusing on his own journey \u2014 from fitness and nutrition to meditation, sobriety, relationships, and personal growth \u2014 Brown wants to help others do the same.",
+        "source": "AI News & Artificial Intelligence | TechCrunch"
+    },
+    {
+        "title": "General Intuition in talks to raise $300M at around $2B valuation",
+        "link": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
+        "published": "Thu, 18 Jun 2026 15:20:37 +0000",
+        "summary": "The startup trains embodied AI and world models using Medal\u2019s dataset of 2 billion videos per year from 10 million monthly active users.",
+        "source": "AI News & Artificial Intelligence | TechCrunch"
+    },
+    {
+        "title": "Founders Fund\u2019s outlier bet on humanely killed fish",
+        "link": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
+        "published": "Sat, 20 Jun 2026 18:26:02 +0000",
+        "summary": "Shinkei makes a refrigerator-sized robot called Poseidon to kill fish quickly and humanely.",
+        "source": "Startups | TechCrunch"
+    },
+    {
+        "title": "He made your free video player run smoothly. Now he\u2019s doing that for robots.",
+        "link": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
+        "published": "Sat, 20 Jun 2026 00:47:44 +0000",
+        "summary": "French serial entrepreneur and open-source legend Jean-Baptiste Kempf has been building Kyber, an infrastructure layer to control remote devices in real time.",
+        "source": "Startups | TechCrunch"
+    },
+    {
+        "title": "Every fusion startup that has raised over $100M",
+        "link": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/",
+        "published": "Fri, 19 Jun 2026 16:50:58 +0000",
+        "summary": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
+        "source": "Startups | TechCrunch"
+    },
+    {
+        "title": "The US banned Anthropic\u2019s Fable 5 release, but the numbers don\u2019t seem to care",
+        "link": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+        "published": "Fri, 19 Jun 2026 16:01:03 +0000",
+        "summary": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s guardrails.&#160; Cybersecurity researchers have&#160;since signed an open letter&#160;calling&#160;the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models.&#160;So&#160;is [&#8230;]",
+        "source": "Startups | TechCrunch"
+    },
+    {
+        "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
+        "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+        "published": "Fri, 19 Jun 2026 00:51:11 +0000",
+        "summary": "Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
+        "source": "Startups | TechCrunch"
+    },
+    {
+        "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+        "link": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+        "published": "Thu, 18 Jun 2026 21:20:13 +0000",
+        "summary": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the \u201cinference gold rush\" marches on.",
+        "source": "Startups | TechCrunch"
+    },
+    {
+        "title": "The 11 standout startups from YC\u2019s Demo Day, according to VCs",
+        "link": "https://techcrunch.com/2026/06/18/the-11-standout-startups-from-ycs-demo-day-according-to-vcs/",
+        "published": "Thu, 18 Jun 2026 19:52:19 +0000",
+        "summary": "TechCrunch spoke to investors to find the hottest startups in the Spring 2026 YC batch. Some of them commanded valuations of over $175 million, VCs said.",
+        "source": "Startups | TechCrunch"
+    },
+    {
+        "title": "\u2018Queer Eye\u2019 life coach Karamo Brown launches K\u0113, a wellness app featuring his AI digital clone",
+        "link": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
+        "published": "Thu, 18 Jun 2026 16:55:04 +0000",
+        "summary": "After spending a year and a half focusing on his own journey \u2014 from fitness and nutrition to meditation, sobriety, relationships, and personal growth \u2014 Brown wants to help others do the same.",
+        "source": "Startups | TechCrunch"
+    },
+    {
+        "title": "Pixi\u2019s new iOS app turns text messages into interactive AR experiences",
+        "link": "https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/",
+        "published": "Thu, 18 Jun 2026 12:00:00 +0000",
+        "summary": "Forget stickers, GIFs, and emoji reactions. Pixi is betting that the next evolution of messaging is interactive augmented reality (AR).",
+        "source": "Startups | TechCrunch"
+    },
+    {
+        "title": "NEA\u2019s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning",
+        "link": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/",
+        "published": "Wed, 17 Jun 2026 18:00:00 +0000",
+        "summary": "Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;reportedly blew&#160;through its annual AI budget in a few months, some companies cut Claude licenses for parts of their org, and Meta killed its internal leaderboard.&#160; This tension between [&#8230;]",
+        "source": "Startups | TechCrunch"
+    },
+    {
+        "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
+        "link": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
+        "published": "Wed, 17 Jun 2026 17:43:07 +0000",
+        "summary": "World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch.",
+        "source": "Startups | TechCrunch"
+    },
+    {
+        "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
+        "link": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
+        "published": "Wed, 17 Jun 2026 15:00:00 +0000",
+        "summary": "If physical AI is going to match the accomplishments of LLMs, there's a data problem that needs to be solved.",
+        "source": "Startups | TechCrunch"
+    },
+    {
+        "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
+        "link": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
+        "published": "Wed, 17 Jun 2026 14:15:22 +0000",
+        "summary": "Pramaana will focus on highly sensitive verticals like law, drug discovery, and tax preparation \u2014 where errors can be costly and reliability is at a premium.",
+        "source": "Startups | TechCrunch"
+    },
+    {
+        "title": "DeepL acquires Mixhalo for live-event audio streaming and translation",
+        "link": "https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/",
+        "published": "Wed, 17 Jun 2026 12:14:44 +0000",
+        "summary": "With this acquisition, DeepL is opening an office in San Francisco to expand its U.S. business.",
+        "source": "Startups | TechCrunch"
+    },
+    {
+        "title": "Anthropic\u2019s latest feud with the Trump admin may actually help it, sales data suggests",
+        "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+        "published": "Tue, 16 Jun 2026 22:34:17 +0000",
+        "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
+        "source": "Startups | TechCrunch"
+    },
+    {
+        "title": "Payments startup Flutterwave hits $3.2B valuation, backed by Ripple",
+        "link": "https://techcrunch.com/2026/06/16/payments-startup-flutterwave-hits-3-2b-valuation-backed-by-ripple/",
+        "published": "Tue, 16 Jun 2026 15:35:39 +0000",
+        "summary": "African payments infrastructure company Flutterwave has hit a new valuation and landed blockchain company Ripple as an investor and partner.",
+        "source": "Startups | TechCrunch"
+    },
+    {
+        "title": "Probably raises $9M to build a more reliable kind of AI",
+        "link": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
+        "published": "Tue, 16 Jun 2026 13:15:09 +0000",
+        "summary": "Probably wants to prevent hallucinations and factual errors from reaching users, and achieve accuracy on par with deterministic systems.",
+        "source": "Startups | TechCrunch"
+    },
+    {
+        "title": "This startup\u2019s super metals could soon be in military drones, luxury watches, and chef\u2019s knives",
+        "link": "https://techcrunch.com/2026/06/16/this-startups-super-metals-could-soon-be-in-military-drones-luxury-watches-and-chefs-knives/",
+        "published": "Tue, 16 Jun 2026 11:25:00 +0000",
+        "summary": "Instead of heating metals, Foundation Alloy beats them into submission. The startup has raised $22 million to scale up production of its alloys.",
+        "source": "Startups | TechCrunch"
+    },
+    {
+        "title": "The Atlantic created a searchable database of the music used to train AI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+        "published": "2026-06-20T14:46:48-04:00",
+        "summary": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount of training data at over [&#8230;]",
+        "source": "The Verge"
+    },
+    {
+        "title": "Musician and YouTuber Hainbach on \u2018Breath of the Wild\u2019 and Swiss Army Knives",
+        "link": "https://www.theverge.com/report/953116/experimental-musician-youtuber-hainbach-interview",
+        "published": "2026-06-20T11:20:00-04:00",
+        "summary": "Stefan Paul Goetsch, better known as Hainbach, is a German experimental composer, artist, and YouTuber who is perhaps most famous for making music with laboratory equipment and scientific instruments. He describes it as being like the \"Dark Souls of synthesis.\" Despite using \"hard mode\" production techniques that often rely on telephone line testing equipment and [&#8230;]",
+        "source": "The Verge"
+    },
+    {
+        "title": "Moves of the Diamond Hand is an unfinished, irresistibly weird dice-based RPG",
+        "link": "https://www.theverge.com/games/949875/moves-of-the-diamond-hand-rpg-dice-jazz-noir",
+        "published": "2026-06-20T10:00:00-04:00",
+        "summary": "From its opening minutes, Moves of the Diamond Hand is upfront about what it offers: You're going to have a lot of strange conversations, and you're going to roll a lot of dice. Get on board with this proposition, and the reward is one of the most creative roleplaying games I've seen in years, even [&#8230;]",
+        "source": "The Verge"
+    },
+    {
+        "title": "Toy Story has the right take on tech",
+        "link": "https://www.theverge.com/tech/952547/toy-story-5-tech-android-17-snap-specs-installer",
+        "published": "2026-06-20T08:00:00-04:00",
+        "summary": "Hi, friends! Welcome to Installer No. 133, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy belated Juneteenth, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Sam Bankman-Fried and PE Guy and admin nights (which we [&#8230;]",
+        "source": "The Verge"
+    },
+    {
+        "title": "SwitchBot\u2019s Standing Circulator Fan is worth fighting for",
+        "link": "https://www.theverge.com/tech/952855/switchbot-standing-circulator-fan-review",
+        "published": "2026-06-20T03:00:00-04:00",
+        "summary": "I can't remember the last time I got excited about a fan. Normally, I just buy whatever Vornado or Dreo model fits my budget, but that was before I started testing the battery-powered Standing Circulator Fan from SwitchBot. As the name indicates, the SwitchBot fan is a 3D circulator - a fancy way of saying [&#8230;]",
+        "source": "The Verge"
+    },
+    {
+        "title": "Nothing cancels this year&#8217;s CMF phone due to RAM prices",
+        "link": "https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices",
+        "published": "2026-06-19T17:28:39-04:00",
+        "summary": "Nothing's next budget phone is the latest victim of RAMageddon. As 9to5Google reports, Nothing co-founder Akis Evangelidis announced in a post on X that a follow-up to the CMF Phone 2 Pro won't be coming this year: We were working on a successor but with memory prices where they are right now, we can't build [&#8230;]",
+        "source": "The Verge"
+    },
+    {
+        "title": "NASA selects Eric Schmidt&#8217;s rocket company for a 2028 mission to Mars",
+        "link": "https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars",
+        "published": "2026-06-19T14:41:48-04:00",
+        "summary": "Relativity Space, the rocket company led by former Google executive Eric Schmidt, was picked to launch NASA's Aeolus payload to Mars in 2028, as reported earlier by TechCrunch. Under a new public-private partnership, Relativity Space will provide the \"spacecraft, rocket, and cruise operations\" to fly Aeolus to Mars, where the payload will \"provide the first [&#8230;]",
+        "source": "The Verge"
+    },
+    {
+        "title": "Hue\u2019s wired wall modules bring non-smart lights into its ecosystem",
+        "link": "https://www.theverge.com/tech/952953/phillips-hue-wired-wall-module-play-lamp-candle-bulb",
+        "published": "2026-06-19T13:24:45-04:00",
+        "summary": "Smart lighting company Philips Hue has launched its first wired wall modules. Installed behind existing wall switches, the new devices bring non-smart lights into the Hue ecosystem for the first time. Hue also announced new Play table and floor lamps that are more affordable versions of its Signe series, along with upgrades to its E14 [&#8230;]",
+        "source": "The Verge"
+    },
+    {
+        "title": "The NTS Radio Player brings the best of internet radio to your hi-fi",
+        "link": "https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming",
+        "published": "2026-06-19T10:53:53-04:00",
+        "summary": "NTS Radio and Swedish audio company Atonemo have teamed up on a dedicated player that brings NTS's genre-defying mixes and streaming stations to almost any stereo or speaker setup. And, like Atonemo's existing Streamplayer, you can also listen to your favorite streaming services with it, using AirPlay 2, Google Cast, Spotify Connect, or Tidal Connect. [&#8230;]",
+        "source": "The Verge"
+    },
+    {
+        "title": "The film about Sam Altman has been dropped by Amazon MGM",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+        "published": "2026-06-19T10:15:29-04:00",
+        "summary": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for about a year. The cast also includes A Complete Unknown actress Monica [&#8230;]",
+        "source": "The Verge"
+    },
+    {
+        "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
+        "link": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
+        "published": "Thu, 18 Jun 2026 23:28:52 +0000",
+        "summary": "Crypto Clipper spreads over USB and communicates over Tor.",
+        "source": "Biz & IT - Ars Technica"
+    },
+    {
+        "title": "Apple patches high-severity eavesdropping vulnerability in Beats Studio Buds",
+        "link": "https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/",
+        "published": "Thu, 18 Jun 2026 19:41:35 +0000",
+        "summary": "The vulnerability, disclosed 12 months ago, affects multiple manufacturers.",
+        "source": "Biz & IT - Ars Technica"
+    },
+    {
+        "title": "Before SpaceX IPO, investors in China secretly acquired stakes",
+        "link": "https://arstechnica.com/information-technology/2026/06/before-spacex-ipo-investors-in-china-secretly-acquired-stakes/",
+        "published": "Thu, 18 Jun 2026 17:42:18 +0000",
+        "summary": "One previously unreported SpaceX investor has ties to Chinese military contractors.",
+        "source": "Biz & IT - Ars Technica"
+    },
+    {
+        "title": "Massive breach spills credentials for thousands of sensitive networks",
+        "link": "https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/",
+        "published": "Wed, 17 Jun 2026 19:54:31 +0000",
+        "summary": "The affected include Oracle, Lenovo, FedEx, a NATO contractor, and Fortinet.",
+        "source": "Biz & IT - Ars Technica"
+    },
+    {
+        "title": "Tesco moving 40,000 server workloads off VMware amid Broadcom's \u201cabusive conduct\u201d",
+        "link": "https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/",
+        "published": "Wed, 17 Jun 2026 19:43:13 +0000",
+        "summary": "Tesco claimed Broadcom hiked its VMware prices by about 175 percent in UK court filings.",
+        "source": "Biz & IT - Ars Technica"
+    },
+    {
+        "title": "\"Dangerous\" AI models are coming no matter what",
+        "link": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
+        "published": "Wed, 17 Jun 2026 17:50:46 +0000",
+        "summary": "AI models with advanced hacking capabilities will soon be the norm.",
+        "source": "Biz & IT - Ars Technica"
+    },
+    {
+        "title": "Windows and Linux users: The deadline to update Secure Boot keys is near",
+        "link": "https://arstechnica.com/security/2026/06/windows-and-linux-users-the-deadline-to-update-secure-boot-keys-is-near/",
+        "published": "Wed, 17 Jun 2026 11:15:17 +0000",
+        "summary": "What you need to know about the expiration of keys securing your machine's boot sequence.",
+        "source": "Biz & IT - Ars Technica"
+    },
+    {
+        "title": "Year of free HPE software a \u201cstep in the correct direction\u201d in VMware rivalry",
+        "link": "https://arstechnica.com/information-technology/2026/06/hpe-tempts-vmware-users-partners-with-year-of-free-virtualization-software/",
+        "published": "Tue, 16 Jun 2026 22:11:15 +0000",
+        "summary": "Partner tells Ars that HPE should be giving out more free VM Essentials licenses.",
+        "source": "Biz & IT - Ars Technica"
+    },
+    {
+        "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
+        "link": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+        "published": "Tue, 16 Jun 2026 11:15:46 +0000",
+        "summary": "SearchLeak exploit shows why the industry's approach to LLM security fails over and over.",
+        "source": "Biz & IT - Ars Technica"
+    },
+    {
+        "title": "Users cry foul after AMD stripped memory crypto from its consumer CPUs",
+        "link": "https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/",
+        "published": "Mon, 15 Jun 2026 17:55:46 +0000",
+        "summary": "AMD's stripping of TSME from consumer CPUs appears to be a deliberate, covert move.",
+        "source": "Biz & IT - Ars Technica"
+    },
+    {
+        "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
+        "link": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
+        "published": "Fri, 12 Jun 2026 19:26:47 +0000",
+        "summary": "Vulnerability in the Oracle-owned PeopleSoft software is about as critical as they come.",
+        "source": "Biz & IT - Ars Technica"
+    },
+    {
+        "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
+        "link": "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/",
+        "published": "Tue, 09 Jun 2026 20:56:52 +0000",
+        "summary": "A separate zero-day also disclosed by Nightmare Eclipse appears to be patched as well.",
+        "source": "Biz & IT - Ars Technica"
+    },
+    {
+        "title": "High-severity vulnerability in Linux caused by a single faulty character",
+        "link": "https://arstechnica.com/security/2026/06/a-single-errant-character-in-the-linux-kernel-allows-attacker-to-gain-root/",
+        "published": "Tue, 09 Jun 2026 15:12:43 +0000",
+        "summary": "Use-after-free bug can be exploited to evade sandbox defenses.",
+        "source": "Biz & IT - Ars Technica"
+    },
+    {
+        "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
+        "link": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
+        "published": "Mon, 08 Jun 2026 18:34:23 +0000",
+        "summary": "73 packages run self-replicating stealer as soon as they're opened by an AI agent.",
+        "source": "Biz & IT - Ars Technica"
+    },
+    {
+        "title": "How a USB-connected speaker can infect a PC without ever being touched",
+        "link": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",
+        "published": "Fri, 05 Jun 2026 21:00:29 +0000",
+        "summary": "Seller of the Sound Blaster Katana V2X doesn't consider the behavior a vulnerability.",
+        "source": "Biz & IT - Ars Technica"
+    },
+    {
+        "title": "Dashlane explains how attackers managed to download encrypted password vaults",
+        "link": "https://arstechnica.com/security/2026/06/dashlane-explains-how-attackers-managed-to-download-encrypted-password-vaults/",
+        "published": "Thu, 04 Jun 2026 20:02:04 +0000",
+        "summary": "By targeting large numbers of users, attackers increased their chances of success.",
+        "source": "Biz & IT - Ars Technica"
+    },
+    {
+        "title": "Can't make sense of Dashlane's vault theft notification? You're not alone.",
+        "link": "https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/",
+        "published": "Wed, 03 Jun 2026 19:53:14 +0000",
+        "summary": "Security advisory leaves out key details. Dashlane maintains complete silence.",
+        "source": "Biz & IT - Ars Technica"
+    },
+    {
+        "title": "Dozens of Red Hat packages backdoored through its official NPM channel",
+        "link": "https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/",
+        "published": "Mon, 01 Jun 2026 19:49:09 +0000",
+        "summary": "Anyone who has downloaded affected Red Hat packages should investigate immediately.",
+        "source": "Biz & IT - Ars Technica"
+    },
+    {
+        "title": "Botnet of more than 17 million devices dismantled",
+        "link": "https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/",
+        "published": "Fri, 29 May 2026 18:46:33 +0000",
+        "summary": "The botnet was reportedly tied to a Russia-based residential proxy network.",
+        "source": "Biz & IT - Ars Technica"
+    },
+    {
+        "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
+        "link": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
+        "published": "Thu, 28 May 2026 20:29:53 +0000",
+        "summary": "Undisclosed addition in jqwik instructed AI coding agents to delete app output.",
+        "source": "Biz & IT - Ars Technica"
+    },
+    {
+        "title": "The Download: AI bottleneck debates, and BCI trials take off",
+        "link": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
+        "published": "Fri, 19 Jun 2026 12:10:00 +0000",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it broke through a bottleneck that\u2019s holding back LLMs AI startup Subquadratic came out of stealth last month with a huge claim: it had solved a mathematical bottleneck&#8230;",
+        "source": "MIT Technology Review"
+    },
+    {
+        "title": "A startup claims it broke through a bottleneck that\u2019s holding back LLMs",
+        "link": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+        "published": "Fri, 19 Jun 2026 10:40:24 +0000",
+        "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has started to bring the receipts, sharing the&#8230;",
+        "source": "MIT Technology Review"
+    },
+    {
+        "title": "The inevitable weakness of metrics",
+        "link": "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/",
+        "published": "Fri, 19 Jun 2026 09:00:00 +0000",
+        "summary": "There are plenty of useful things a metric can reveal. There are even more it can obscure or corrupt. It took me well over a decade of tracking my own life in ever greater detail to fully appreciate this duality, which probably reveals something about both me and the nature of measurement. Like a lot&#8230;",
+        "source": "MIT Technology Review"
+    },
+    {
+        "title": "Brain-computer interface trials are taking off",
+        "link": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
+        "published": "Fri, 19 Jun 2026 09:00:00 +0000",
+        "summary": "This week, I covered the story of Casey Harrell\u2014a man with ALS who is \u201cthe first power user\u201d of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to speak coherently without the device. He has now spent almost three years using a brain-computer interface (BCI) that enables&#8230;",
+        "source": "MIT Technology Review"
+    },
+    {
+        "title": "The Download: a new hunt for dark matter and Kenya\u2019s case for going solar",
+        "link": "https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/",
+        "published": "Thu, 18 Jun 2026 12:10:00 +0000",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The search for dark matter has been blown wide open For decades, physicists have hunted for weakly interacting massive particles (WIMPs), a leading candidate for dark matter. But their search has&#8230;",
+        "source": "MIT Technology Review"
+    },
+    {
+        "title": "Geoengineering still faces major practical challenges",
+        "link": "https://www.technologyreview.com/2026/06/18/1139227/geoengineering-engineering-challenges/",
+        "published": "Thu, 18 Jun 2026 10:00:00 +0000",
+        "summary": "Solar geoengineering is often portrayed as a sort of emergency brake. Something along the lines of Pull in case of climate emergency to scatter light-reflecting particles to bounce sunlight out of the atmosphere and cool the planet. But it might be less like a simple brake and more like a complicated, entirely unsolved puzzle. Some&#8230;",
+        "source": "MIT Technology Review"
+    },
+    {
+        "title": "The search for dark matter has been blown wide open",
+        "link": "https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/",
+        "published": "Thu, 18 Jun 2026 09:00:00 +0000",
+        "summary": "Underneath an Apennine massif, below the Jinping Mountains of Sichuan, and at the bottom of a South Dakota mine, there is a cosmic hunt afoot. Isolated deep beneath these rocky shields, massive detectors filled with liquid xenon aim to make the first direct detections of dark matter, the long-sought invisible substance whose gravity has sculpted&#8230;",
+        "source": "MIT Technology Review"
+    },
+    {
+        "title": "The Download: a reality check for geoengineering and the science of interoception",
+        "link": "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/",
+        "published": "Wed, 17 Jun 2026 12:10:00 +0000",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Hacking the atmosphere: geoengineering gets a reality check Solar geoengineering, the controversial idea that we could deliberately intervene in the climate system to counteract global warming, is moving beyond computer simulations&#8230;",
+        "source": "MIT Technology Review"
+    },
+    {
+        "title": "Entrepreneurs in Nairobi make the case for going solar",
+        "link": "https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/",
+        "published": "Wed, 17 Jun 2026 09:00:00 +0000",
+        "summary": "Most of Kenya\u2019s power grid runs on renewables. But with 25% of communities lacking centralized electricity, the nation is looking to off-grid solar to hit its goal of delivering universal electricity access by 2030 without driving up emissions. The ever-\u00adimproving economics of solar technology have helped. A couple of years ago, a panel cost about&#8230;",
+        "source": "MIT Technology Review"
+    },
+    {
+        "title": "Hacking the atmosphere: Geoengineering gets a reality check",
+        "link": "https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/",
+        "published": "Wed, 17 Jun 2026 09:00:00 +0000",
+        "summary": "Jim Franke pulls away the cover page of a presentation on the wraparound desk in his office, revealing an illustration of an odd-\u00adlooking aircraft with massive wings stretching out from a stubby fuselage. The uncrewed plane is soaring thousands of meters higher than commercial jets fly\u2014so high you can see the curvature of the Earth.&#8230;",
+        "source": "MIT Technology Review"
+    },
+    {
+        "title": "SAP and Google Cloud deploy agentic commerce architecture",
+        "link": "https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/",
+        "published": "Fri, 19 Jun 2026 14:02:20 +0000",
+        "summary": "<p>SAP and Google Cloud are deploying agentic commerce architecture to automate multi-agent marketing and retail operations at enterprise scale. SAP research indicates 78 percent of businesses consider AI essential for retaining customers in 2026. However, the same data reveals fewer than two in five companies share customer data across customer experience (37%) or CRM (39%) [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/\">SAP and Google Cloud deploy agentic commerce architecture</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "source": "AI News"
+    },
+    {
+        "title": "e2e-assure introduces Cumulo, the U.K.\u2019s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments",
+        "link": "https://www.artificialintelligence-news.com/news/e2e-assure-introduces-cumulo-the-u-k-s-only-sovereign-ai-driven-zero-day-soc-platform-to-secure-it-and-ot-environments/",
+        "published": "Fri, 19 Jun 2026 09:57:55 +0000",
+        "summary": "<p>Built around digital twin technology and customer-dedicated AI models, Cumulo answers the recent announcement by GCHQ for AI Cyber Shield, enabling early identification of threats and vulnerabilities before incidents occur Abingdon, U.K., 19 June, \u2013\u00a0SOC-as-a-service provider,\u00a0e2e-assure,\u00a0today announced the launch of\u00a0the updated\u00a0Cumulo, the U.K.\u2019s only sovereign, AI-first, IT/OT connected SOC platform, designed to help organisations defend [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/e2e-assure-introduces-cumulo-the-u-k-s-only-sovereign-ai-driven-zero-day-soc-platform-to-secure-it-and-ot-environments/\">e2e-assure introduces Cumulo, the U.K.\u2019s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "source": "AI News"
+    },
+    {
+        "title": "Computer vision deployments drive retail productivity gains",
+        "link": "https://www.artificialintelligence-news.com/news/computer-vision-deployments-drive-retail-productivity-gains/",
+        "published": "Thu, 18 Jun 2026 15:57:46 +0000",
+        "summary": "<p>Computer vision deployments are driving retail productivity gains as operators automate physical shelf tracking to protect eroding margins. This hardware deployment directly addresses the persistent in-store execution failures currently costing the industry billions. A study authored by Coresight Research \u2013 in partnership with technology providers Simbe and RELEX Solutions \u2013 calculates the exact cost of [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/computer-vision-deployments-drive-retail-productivity-gains/\">Computer vision deployments drive retail productivity gains</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "source": "AI News"
+    },
+    {
+        "title": "HSBC expands AI banking partnership with Google Cloud",
+        "link": "https://www.artificialintelligence-news.com/news/hsbc-google-cloud-ai-partnership/",
+        "published": "Thu, 18 Jun 2026 10:00:00 +0000",
+        "summary": "<p>HSBC has entered a multi-year partnership with Google Cloud to develop and deploy artificial intelligence tools across its global operations. Announced at Google Cloud Summit London 2026, the agreement covers work in wealth management, financial crime risk management, and internal decision support. HSBC will work with Google Cloud and Google DeepMind engineering teams on AI [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/hsbc-google-cloud-ai-partnership/\">HSBC expands AI banking partnership with Google Cloud</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "source": "AI News"
+    },
+    {
+        "title": "Microsoft sells OpenAI models in China. OpenAI and Anthropic won\u2019t.",
+        "link": "https://www.artificialintelligence-news.com/news/microsoft-sells-openai-models-china/",
+        "published": "Thu, 18 Jun 2026 09:00:00 +0000",
+        "summary": "<p>Microsoft has quietly become the main supplier of OpenAI models in China, selling the technology to the country&#8217;s largest internet companies even as OpenAI and Anthropic keep their own models out of the market on intellectual-property and misuse grounds. The arrangement, detailed this week by&#160;Bloomberg, hands Microsoft a position no other American AI vendor holds: [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/microsoft-sells-openai-models-china/\">Microsoft sells OpenAI models in China. OpenAI and Anthropic won&#8217;t.</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "source": "AI News"
+    },
+    {
+        "title": "Google Cloud generative AI automates council planning operations",
+        "link": "https://www.artificialintelligence-news.com/news/google-cloud-generative-ai-automates-council-planning-operations/",
+        "published": "Wed, 17 Jun 2026 10:59:42 +0000",
+        "summary": "<p>Government ministries are deploying Google Cloud generative AI across municipal agencies to automate council planning operations. Public sector administration handles vast volumes of unstructured data that delay infrastructure development. The UK central government established a target to construct 1.5 million new homes by 2029. Local planning authorities encounter administrative backlogs caused by dense paperwork, delaying [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/google-cloud-generative-ai-automates-council-planning-operations/\">Google Cloud generative AI automates council planning operations</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "source": "AI News"
+    },
+    {
+        "title": "Insurers pivot AI strategy toward core risk underwriting",
+        "link": "https://www.artificialintelligence-news.com/news/insurers-pivot-ai-strategy-toward-core-risk-underwriting/",
+        "published": "Tue, 16 Jun 2026 15:55:02 +0000",
+        "summary": "<p>AI investments by insurers are now expected to generate tangible business value beyond mere efficiency. According to findings in the 2026 Evident AI Index, insurers are now embedding AI technologies into workflows that directly influence underwriting discipline and capital allocation. Christian Preece, Insurance Director at Evident, says: \u201cFor years, insurers have competed on AI ambition, [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/insurers-pivot-ai-strategy-toward-core-risk-underwriting/\">Insurers pivot AI strategy toward core risk underwriting</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "source": "AI News"
+    },
+    {
+        "title": "EU publishes its AI content labelling playbook ahead of the AI Act\u2019s August deadline",
+        "link": "https://www.artificialintelligence-news.com/news/ai-content-labelling-eu-code-of-practice/",
+        "published": "Tue, 16 Jun 2026 10:00:00 +0000",
+        "summary": "<p>The European Union has&#160;published&#160;its AI content labelling playbook, a voluntary Code of Practice meant to help companies meet transparency rules that become law across the bloc on August 2 onwards. The European Commission released the final Code on 10 June, setting out practical steps for the businesses that build and use generative AI to mark [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/ai-content-labelling-eu-code-of-practice/\">EU publishes its AI content labelling playbook ahead of the AI Act&#8217;s August deadline</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "source": "AI News"
+    },
+    {
+        "title": "AI Red Teaming Explained: What It Is and Why You Need It",
+        "link": "https://www.artificialintelligence-news.com/news/ai-red-teaming-explained-what-it-is-and-why-you-need-it/",
+        "published": "Tue, 16 Jun 2026 08:06:43 +0000",
+        "summary": "<p>With AI adoption accelerating, testing systems under adversarial conditions has become increasingly important. It enables organisations to identify vulnerabilities before deployment and strengthen overall system safety. Explore what AI red teaming is, why it matters and the leading companies offering AI red teaming consulting services. What Is AI Red Teaming? AI red teaming tests artificial [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/ai-red-teaming-explained-what-it-is-and-why-you-need-it/\">AI Red Teaming Explained: What It Is and Why You Need It</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "source": "AI News"
+    },
+    {
+        "title": "How AI-Powered CMS Platforms Are Transforming Enterprise Content Operations",
+        "link": "https://www.artificialintelligence-news.com/news/how-ai-powered-cms-platforms-are-transforming-enterprise-content-operations/",
+        "published": "Tue, 16 Jun 2026 07:49:07 +0000",
+        "summary": "<p>For years, enterprise content management was largely a publication tool. How do you get the right content, in the right format, to the right channel, without breaking workflows that span dozens of markets and hundreds of contributors? The answer was usually a combination of manual processes, siloed systems, and large coordination teams that grew historically [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/how-ai-powered-cms-platforms-are-transforming-enterprise-content-operations/\">How AI-Powered CMS Platforms Are Transforming Enterprise Content Operations</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "source": "AI News"
+    },
+    {
+        "title": "HarmonyOS 7 steps into the AI gap Apple left open in China",
+        "link": "https://www.artificialintelligence-news.com/news/harmonyos-7-china-ai-apple-gap/",
+        "published": "Mon, 15 Jun 2026 11:00:00 +0000",
+        "summary": "<p>Four days after Apple confirmed that Siri AI would not launch in China, Huawei took the stage in Dongguan and declared HarmonyOS 7 the beginning of the agent era. The gap Apple could not fill, Huawei has moved into with an architecture built specifically for it. What HarmonyOS 7 actually changes The headline change is [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/harmonyos-7-china-ai-apple-gap/\">HarmonyOS 7 steps into the AI gap Apple left open in China</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "source": "AI News"
+    },
+    {
+        "title": "Accenture: Consumers show growing trust in AI shopping agents",
+        "link": "https://www.artificialintelligence-news.com/news/ai-shopping-agents-consumer-trust-accenture-report/",
+        "published": "Mon, 15 Jun 2026 10:00:00 +0000",
+        "summary": "<p>Consumers are showing a willingness to let AI agents take on more shopping-related tasks, according to new research from Accenture. The company\u2019s 2026 Consumer Pulse Research, based on a survey of 25,590 consumers across 16 countries, found that 74% of respondents would trust a personal AI agent more than their best friend to make a [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/ai-shopping-agents-consumer-trust-accenture-report/\">Accenture: Consumers show growing trust in AI shopping agents</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "source": "AI News"
+    }
+]
