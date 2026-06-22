@@ -482,7 +482,3 @@ The system successfully:
 * Automated competitor benchmarking
 * Knowledge graph integration
 * Predictive strategic forecasting
-
-Natural Language Processing Examination Project
-
-SRH University
