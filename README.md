@@ -1,484 +1,438 @@
-# 🤖 NVIDIA Strategic Intelligence Agent
+# 🤖 AI CEO Agent for Strategic Business Intelligence
 
-## AI CEO Strategic Intelligence Dashboard
+## AI-Powered Multi-Agent Decision Support System
 
-### Natural Language Processing Examination Project
+This project implements an **AI CEO Agent** that assists executives in making strategic business decisions using a **Multi-Agent Architecture** and **Retrieval-Augmented Generation (RAG)**.
 
-This project implements an AI-powered Strategic Intelligence Agent that continuously collects, processes, retrieves, analyzes, and reasons over information related to NVIDIA and provides executive-level recommendations for strategic decision-making.
+The system collects NVIDIA-related business intelligence, retrieves relevant information using semantic search, analyzes opportunities, risks, and technology trends, generates strategic recommendations, validates them, and presents the results through an interactive Streamlit dashboard.
 
-The objective is not only to retrieve information but to transform information into actionable business intelligence supported by evidence.
+---
 
 # 📌 Project Objective
 
-Organizations operate in an environment with continuous information flow from:
+Modern organizations generate enormous amounts of business information every day.
 
-* News articles
-* Company announcements
-* Competitor activities
-* Market developments
-* Technology innovations
-* Industry trends
+Instead of manually reading hundreds of news articles, this AI CEO Agent automatically:
 
-The challenge is no longer finding information.
+- Collects business intelligence
+- Retrieves relevant information
+- Analyzes opportunities
+- Detects business risks
+- Identifies emerging technology trends
+- Prioritizes findings
+- Generates strategic recommendations
+- Validates recommendations
+- Presents executive insights through a dashboard
 
-The challenge is transforming information into strategic decisions.
+The project demonstrates an **Agentic AI Workflow** rather than a simple Prompt → LLM architecture.
 
-This system acts as an AI advisor to the CEO and answers questions such as:
+---
 
-* What are the major opportunities for NVIDIA?
-* What are the biggest risks?
-* What are competitors doing?
-* Which technologies should management monitor?
-* What strategic actions should be prioritized?
-* What evidence supports these recommendations?
+# 🏗 System Architecture
 
-# 🎯 Functional Requirements Implementation
-
-## Task 1: Live Data Collection
-
-The system automatically collects information from multiple public sources.
-
-### Sources Used
-
-* NVIDIA Blog RSS Feed
-* NVIDIA News RSS Feed
-* Technology News Sources
-
-### Collected Information
-
-* Article title
-* Summary
-* Publication date
-* Source
-* URL
-
-### Results
-
-* More than 100 collected documents
-* Multiple independent sources
-* Fully automated collection process
-
-Output:
-
-```text
-news.json
 ```
-
-## Task 2: Knowledge Repository
-
-The collected information is converted into vector embeddings and stored inside a vector database.
-
-### Repository Used
-
-```text
-ChromaDB
-```
-
-Purpose:
-
-* Efficient document storage
-* Semantic retrieval
-* Knowledge repository for strategic analysis
-
-Output:
-
-```text
-vectordb/
+                          USER
+                            │
+                            ▼
+                   Business Goal
+                            │
+                            ▼
+                    Planner Agent
+                            │
+              Creates Execution Plan
+                            ▼
+                   Retriever Agent
+                            │
+       ChromaDB + BGE Embeddings (RAG)
+                            │
+            Retrieves Relevant Documents
+                            ▼
+                    Analyzer Agent
+          ┌────────────┬────────────┬
+          │            │            │
+     Opportunities    Risks      Trends
+          │            │            │
+          └────────────┴────────────┘
+                            ▼
+                    Decision Agent
+                            │
+          Selects Most Important Findings
+                            ▼
+               Recommendation Agent
+                            │
+        Generates Strategic Recommendations
+                            ▼
+                   Validation Agent
+                            │
+      Validates Evidence & Confidence Score
+                            ▼
+                 Streamlit Dashboard
+                            ▼
+               Executive Decision Support
 ```
 
 ---
 
-## Task 3: Information Processing
+# 🔄 AI Agent Workflow
 
-The system automatically performs:
+The implemented workflow follows the project requirements:
 
-### Data Cleaning
-
-* Remove unnecessary content
-* Normalize text
-
-### Duplicate Removal
-
-* Remove duplicate articles
-
-### Information Extraction
-
-* Extract relevant content
-
-### Embedding Generation
-
-Embedding model used:
-
-```text
-all-MiniLM-L6-v2
 ```
-
-### Indexing
-
-Documents are indexed in ChromaDB for semantic retrieval.
-
-Output:
-
-```text
-clean_news.json
+Business Goal
+      │
+      ▼
+Planner Agent
+      │
+      ▼
+Retriever Agent
+      │
+      ▼
+Analyzer Agent
+      │
+      ▼
+Decision Agent
+      │
+      ▼
+Recommendation Agent
+      │
+      ▼
+Validation Agent
+      │
+      ▼
+Executive Dashboard
 ```
 
 ---
 
-## Task 4: Strategic Intelligence Engine
+# 🧠 Agent Responsibilities
 
-The Strategic Intelligence Engine analyzes collected information and identifies:
+## 📋 Planner Agent
 
-### Opportunities
+Responsible for planning before execution.
 
-* Agentic AI Infrastructure
-* Government AI Projects
-* Industrial AI Expansion
+Input:
 
-### Risks
-
-* AWS Custom AI Chips
-* AI Market Competition
-* Regulatory Pressure
-
-### Trends
-
-* Agentic AI
-* Physical AI
-* AI Factories
-* Edge AI
-* Confidential Computing
+- Business Goal
 
 Output:
 
-```text
-intelligence_report.txt
-```
+- Execution Plan
+
+Example:
+
+- Retrieve business documents
+- Analyze opportunities
+- Analyze risks
+- Identify technology trends
+- Generate recommendations
+- Validate recommendations
 
 ---
 
-## Task 5: AI CEO Agent
+## 🔍 Retriever Agent
 
-The AI CEO Agent uses retrieved evidence and strategic intelligence reports to:
+Responsible for retrieving relevant business information.
 
-* Analyze business implications
-* Reason about opportunities and risks
-* Prioritize actions
-* Recommend strategic decisions
-* Justify recommendations
+Uses:
 
-Model Used:
-
-```text
-Qwen3-8B
-```
+- ChromaDB
+- Semantic Search
+- Vector Embeddings
 
 Output:
 
-```text
-ceo_recommendations.txt
-```
+- Most relevant NVIDIA business documents
 
 ---
 
-## Task 6: Evidence-Based Recommendations
+## 📊 Analyzer Agent
 
-Each recommendation includes:
+Processes retrieved documents.
 
-### Recommendation
+Identifies:
 
-Strategic action to be taken.
+- Business Opportunities
+- Business Risks
+- Technology Trends
 
-### Supporting Evidence
-
-Evidence retrieved from collected documents.
-
-### Expected Impact
-
-* Revenue Growth
-* Market Differentiation
-* Customer Acquisition
-
-### Risk Assessment
-
-* Financial Risk
-* Operational Risk
-* Strategic Risk
-
-Output:
-
-```text
-evidence_recommendations.txt
-```
+Produces structured business intelligence.
 
 ---
 
-# 🏗 System Architecture Diagram
+## 🎯 Decision Agent
 
-```text
-                    ┌───────────────────────┐
-                    │ Public Information    │
-                    │ Sources               │
-                    └───────────┬───────────┘
-                                │
-                                ▼
-                    ┌───────────────────────┐
-                    │ News Scraper          │
-                    └───────────┬───────────┘
-                                │
-                                ▼
-                    ┌───────────────────────┐
-                    │ news.json             │
-                    └───────────┬───────────┘
-                                │
-                                ▼
-                    ┌───────────────────────┐
-                    │ Data Cleaning         │
-                    └───────────┬───────────┘
-                                │
-                                ▼
-                    ┌───────────────────────┐
-                    │ clean_news.json       │
-                    └───────────┬───────────┘
-                                │
-                                ▼
-                    ┌───────────────────────┐
-                    │ Embedding Generation  │
-                    │ all-MiniLM-L6-v2      │
-                    └───────────┬───────────┘
-                                │
-                                ▼
-                    ┌───────────────────────┐
-                    │ ChromaDB Vector Store │
-                    └───────────┬───────────┘
-                                │
-                                ▼
-                    ┌───────────────────────┐
-                    │ Semantic Search       │
-                    │ RAG Retrieval         │
-                    └───────────┬───────────┘
-                                │
-                                ▼
-                    ┌───────────────────────┐
-                    │ Strategic Intelligence│
-                    │ Engine                │
-                    └───────────┬───────────┘
-                                │
-                                ▼
-                    ┌───────────────────────┐
-                    │ Qwen3-8B CEO Agent    │
-                    └───────────┬───────────┘
-                                │
-                                ▼
-                    ┌───────────────────────┐
-                    │ Recommendations       │
-                    └───────────┬───────────┘
-                                │
-                                ▼
-                    ┌───────────────────────┐
-                    │ Streamlit Dashboard   │
-                    └───────────────────────┘
+Prioritizes business intelligence.
+
+Selects:
+
+- Best Opportunity
+- Highest Risk
+- Top Technology Trend
+
+This demonstrates autonomous decision-making.
+
+---
+
+## 💡 Recommendation Agent
+
+Generates executive recommendations.
+
+Each recommendation contains:
+
+- Priority
+- Recommendation
+- Business Reason
+- Expected Impact
+- Risk Level
+- Supporting Evidence
+
+---
+
+## ✅ Validation Agent
+
+Verifies recommendation quality.
+
+Checks:
+
+- Evidence availability
+- Confidence level
+- Validation status
+
+Only validated recommendations are presented.
+
+---
+
+# 📚 Retrieval-Augmented Generation (RAG)
+
+The project implements a Retrieval-Augmented Generation pipeline.
+
+Workflow:
+
+```
+Business Goal
+        │
+        ▼
+Embedding Generation
+        │
+        ▼
+Semantic Search
+        │
+        ▼
+ChromaDB Vector Database
+        │
+        ▼
+Relevant Documents
+        │
+        ▼
+Analyzer Agent
+        │
+        ▼
+Decision Agent
+        │
+        ▼
+Recommendation Agent
 ```
 
+RAG ensures recommendations are based on retrieved business evidence rather than model memory alone.
 
+---
 
-# 🔄 Data Flow Diagram
+# 🗂 Data Pipeline
 
-```text
-Collect Data
-      │
-      ▼
-Store Raw Data
-      │
-      ▼
-Clean Data
-      │
-      ▼
-Generate Embeddings
-      │
-      ▼
-Store in ChromaDB
-      │
-      ▼
-Retrieve Relevant Documents
-      │
-      ▼
-Strategic Analysis
-      │
-      ▼
-CEO Agent Reasoning
-      │
-      ▼
-Generate Recommendations
-      │
-      ▼
-Dashboard Visualization
+```
+Business News
+        │
+        ▼
+News Collection
+        │
+        ▼
+Data Cleaning
+        │
+        ▼
+JSON Dataset
+        │
+        ▼
+Embedding Generation
+        │
+        ▼
+ChromaDB Vector Database
+        │
+        ▼
+Retriever Agent
+        │
+        ▼
+Analyzer Agent
+        │
+        ▼
+Decision Agent
+        │
+        ▼
+Recommendation Agent
+        │
+        ▼
+Validation Agent
+        │
+        ▼
+Dashboard
 ```
 
-
-
-# 🧠 AI Pipeline
-
-### Step 1 – Data Collection
-
-News articles are collected from multiple public sources.
-
-### Step 2 – Data Cleaning
-
-Data is cleaned and normalized.
-
-### Step 3 – Embedding Generation
-
-Text is converted into vector embeddings using:
-
-```python
-SentenceTransformer("all-MiniLM-L6-v2")
-```
-
-### Step 4 – Knowledge Repository
-
-Embeddings are stored in ChromaDB.
-
-### Step 5 – Retrieval
-
-Relevant documents are retrieved using semantic search.
-
-### Step 6 – Strategic Analysis
-
-The Strategic Intelligence Engine identifies:
-
-* Opportunities
-* Risks
-* Trends
-
-### Step 7 – AI CEO Reasoning
-
-Qwen3-8B analyzes retrieved evidence and generates recommendations.
-
-### Step 8 – Dashboard Visualization
-
-Results are displayed through an Executive Intelligence Dashboard.
-
-
-
-# 🛠 Technology Stack
-
-| Component            | Technology                 |
-| -------------------- | -------------------------- |
-| Programming Language | Python                     |
-| Dashboard            | Streamlit                  |
-| Large Language Model | Qwen3-8B                   |
-| Embedding Model      | all-MiniLM-L6-v2           |
-| Vector Database      | ChromaDB                   |
-| Retrieval Method     | RAG                        |
-| Semantic Search      | ChromaDB Similarity Search |
-| Data Storage         | JSON                       |
-| Visualization        | Plotly                     |
-| NLP Framework        | Sentence Transformers      |
-
-
+---
 
 # 📊 Dashboard Features
 
-## Section 1: Company Overview
+The Streamlit dashboard includes:
 
-* Company Name
-* Industry
-* Number of Documents
-* Number of Sources
-* Last Update Timestamp
-
-## Section 2: Market Intelligence
-
-* Recent News
-* Competitor Activities
-* Emerging Technologies
-* Important Company Announcements
-
-## Section 3: Opportunity Monitor
-
-* Opportunity Title
-* Impact Level
-* Evidence
-* Confidence Score
-
-## Section 4: Risk Monitor
-
-* Risk Title
-* Risk Category
-* Severity Level
-* Evidence
-* Confidence Score
-
-## Section 5: Sentiment Analysis
-
-* News Sentiment
-* Public Sentiment
-* Sentiment Trends
-* Interactive Visualizations
-
-## Section 6: Strategic Recommendations
-
-* Recommendation
-* Priority
-* Supporting Evidence
-* Expected Impact
-* Risk Level
-
-## Section 7: CEO Briefing
-
-* What Happened?
-* Why Does It Matter?
-* What Should Management Do Next?
+- AI CEO Agent
+- Business Goal Input
+- Execution Plan
+- Company Overview
+- Market Intelligence
+- Analysis Summary
+- Opportunity Monitor
+- Risk Monitor
+- Strategic Recommendations
+- Sentiment Analysis
+- CEO Briefing
 
 ---
 
-# 📂 Project Structure
+# 🛠 Technology Stack
 
-```text
-AI_CEO_AGENT
+| Component | Technology |
+|------------|------------|
+| Programming Language | Python |
+| Dashboard | Streamlit |
+| Vector Database | ChromaDB |
+| Embedding Model | BGE Sentence Transformers |
+| Retrieval | Retrieval-Augmented Generation (RAG) |
+| Semantic Search | ChromaDB Similarity Search |
+| Visualization | Plotly |
+| Data Storage | JSON |
+
+> If your project actually uses Ollama and Qwen, you can also include:
+>
+> **LLM:** Qwen3-8B (via Ollama)
+
+Only include that if your code genuinely calls the model.
+
+---
+
+# 📁 Project Structure
+
+```
+AI_CEO_AGENT/
+│
+├── agents/
+│   ├── planner_agent.py
+│   ├── retriever_agent.py
+│   ├── analyzer_agent.py
+│   ├── decision_agent.py
+│   ├── recommendation_agent.py
+│   ├── validation_agent.py
+│   └── __init__.py
 │
 ├── dashboard/
 │   └── app.py
 │
-├── scraper/
-│   └── news_scraper.py
-│
-├── intelligence/
-│   ├── strategic_engine.py
-│   ├── ceo_agent.py
-│   ├── evidence_recommendations.py
-│   └── final_recommendations.py
-│
 ├── data/
-│   ├── news.json
-│   └── clean_news.json
-│
-├── reports/
+│   ├── clean_news.json
+│   └── raw_news.json
 │
 ├── vectordb/
+│   ├── build_db.py
+│   └── search.py
+│
+├── scraper/
+│
+├── main_agent.py
+│
+├── requirements.txt
 │
 └── README.md
 ```
 
-# 📈 Results
+---
 
-The system successfully:
+# 🚀 How to Run
 
-* Collected 100+ documents
-* Integrated multiple public information sources
-* Built a vector-based knowledge repository
-* Implemented semantic retrieval
-* Generated evidence-based recommendations
-* Detected opportunities and risks
-* Produced executive-level strategic intelligence
-* Delivered an interactive executive dashboard
+### Clone the repository
 
+```bash
+git clone <repository-url>
+```
 
-# 🚀 Future Improvements
+### Install dependencies
 
-* Real-time streaming intelligence
-* Additional financial data sources
-* Automated competitor benchmarking
-* Knowledge graph integration
-* Predictive strategic forecasting
+```bash
+pip install -r requirements.txt
+```
+
+### Build the Vector Database
+
+```bash
+python vectordb/build_db.py
+```
+
+### Run the AI CEO Agent
+
+```bash
+python main_agent.py
+```
+
+### Launch Dashboard
+
+```bash
+streamlit run dashboard/app.py
+```
+
+---
+
+# 🎯 Key Features
+
+- Multi-Agent AI Architecture
+- Planning Before Execution
+- Retrieval-Augmented Generation (RAG)
+- Semantic Search
+- ChromaDB Vector Database
+- Business Opportunity Detection
+- Business Risk Analysis
+- Technology Trend Detection
+- Autonomous Decision Making
+- Recommendation Generation
+- Recommendation Validation
+- Interactive Executive Dashboard
+
+---
+
+# 📈 Project Outcomes
+
+The AI CEO Agent successfully demonstrates:
+
+- Multi-Agent AI Workflow
+- Planning Before Execution
+- Evidence-Based Retrieval
+- Strategic Business Analysis
+- Autonomous Decision Making
+- Recommendation Generation
+- Recommendation Validation
+- Executive Decision Support Dashboard
+
+The project satisfies the required workflow:
+
+```
+Goal
+   ↓
+Plan
+   ↓
+Retrieve
+   ↓
+Analyze
+   ↓
+Decide
+   ↓
+Recommend
+   ↓
+Validate
+```
+
+which demonstrates explicit AI Agent behaviour beyond a traditional Prompt → LLM application.
