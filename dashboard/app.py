@@ -1,8 +1,23 @@
+import sys
+import os
+
+sys.path.append(
+    os.path.abspath(
+        os.path.join(os.path.dirname(__file__), "..")
+    )
+)
+
 import streamlit as st
 import pandas as pd
 import json
 from datetime import datetime
 import plotly.express as px
+from agents.planner_agent import create_plan
+from agents.retriever_agent import retrieve
+from agents.analyzer_agent import analyze
+from agents.decision_agent import decide
+from agents.recommendation_agent import recommend
+from agents.validation_agent import validate
 
 
 st.set_page_config(
@@ -15,9 +30,97 @@ with open("data/clean_news.json", "r") as file:
     news_data = json.load(file)
 
 
-    st.title("🤖 NVIDIA Strategic Intelligence Dashboard")
+    st.title(" NVIDIA Strategic Intelligence Dashboard")
 
 st.write("AI-Powered Executive Intelligence Agent")
+
+
+st.divider()
+
+st.header(" AI CEO Agent")
+
+goal = st.text_input(
+    "Enter Business Goal",
+    placeholder="Example: Expand NVIDIA enterprise AI business"
+)
+
+run_agent = st.button("Run AI CEO Agent")
+
+if run_agent and goal:
+
+    st.success("Business Goal Received")
+
+    # Planner
+    plan = create_plan(goal)
+
+    st.subheader("📋 Execution Plan")
+
+    for i, step in enumerate(plan["steps"], start=1):
+        st.write(f"{i}. {step}")
+
+    # Retriever
+    documents = retrieve(goal)
+
+    # Analyzer
+    analysis = analyze(documents)
+
+    # Decision
+    decision = decide(analysis)
+
+    # Recommendation
+    recommendations = recommend(decision)
+
+    # Validation
+    validated = validate(recommendations)
+
+    st.subheader("📊 Analysis Summary")
+
+    col1, col2, col3 = st.columns(3)
+
+    col1.metric(
+        "Opportunities",
+        len(analysis["opportunities"])
+    )
+
+    col2.metric(
+        "Risks",
+        len(analysis["risks"])
+    )
+
+    col3.metric(
+        "Trends",
+        len(analysis["trends"])
+    )
+
+    st.subheader("🎯 Strategic Recommendations")
+
+    for rec in validated:
+
+        st.info(
+            f"""
+### {rec['title']}
+
+Priority: {rec['priority']}
+
+Recommendation:
+{rec['recommendation']}
+
+Reason:
+{rec['reason']}
+
+Expected Impact:
+{rec['expected_impact']}
+
+Risk:
+{rec['risk']}
+
+Confidence:
+{rec['confidence']}
+
+Validation:
+{rec['status']}
+"""
+        )
 
 
 
@@ -95,86 +198,26 @@ for item in announcements:
 
 st.header("📈 Opportunity Monitor")
 
-opportunities = [
-    {
-        "title": "Agentic AI Infrastructure",
-        "impact": "High",
-        "evidence": "Blackwell leads AgentPerf benchmark, HPE AI Factory expansion",
-        "confidence": "95%"
-    },
+if run_agent and goal:
 
-    {
-        "title": "Government AI Projects",
-        "impact": "High",
-        "evidence": "UK and France sovereign AI initiatives",
-        "confidence": "90%"
-    },
+    if analysis["opportunities"]:
 
-    {
-        "title": "Industrial AI Expansion",
-        "impact": "Medium",
-        "evidence": "Doosan partnership and Physical AI growth",
-        "confidence": "85%"
-    }
-]
+        for opp in analysis["opportunities"]:
 
-for opp in opportunities:
-    st.success(
-        f"""
-Opportunity Title: {opp['title']}
+            st.success(f"""
+### {opp.get("title", "Business Opportunity")}
 
-Impact Level: {opp['impact']}
+Source:
+{opp.get("metadata", {}).get("source", "Unknown")}
 
-Evidence: {opp['evidence']}
+Evidence:
+{opp.get("document", "")[:250]}
+""")
 
-Confidence Score: {opp['confidence']}
-"""
-    )
+    else:
+        st.info("No business opportunities detected.")
 
 
-
-st.header("⚠️ Risk Monitor")
-
-risks = [
-    {
-        "title": "AWS Custom AI Chips",
-        "category": "Competitive Risk",
-        "severity": "High",
-        "evidence": "AWS developing proprietary AI accelerators",
-        "confidence": "90%"
-    },
-
-    {
-        "title": "AI Market Competition",
-        "category": "Market Risk",
-        "severity": "Medium",
-        "evidence": "AMD and Intel expanding AI hardware offerings",
-        "confidence": "85%"
-    },
-
-    {
-        "title": "Regulatory Pressure",
-        "category": "Compliance Risk",
-        "severity": "Medium",
-        "evidence": "Growing sovereign AI regulations globally",
-        "confidence": "80%"
-    }
-]
-
-for risk in risks:
-    st.error(
-        f"""
-Risk Title: {risk['title']}
-
-Risk Category: {risk['category']}
-
-Severity Level: {risk['severity']}
-
-Evidence: {risk['evidence']}
-
-Confidence Score: {risk['confidence']}
-"""
-    )
 
 
 
